@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Menu from "../assets/icons/menu.png";
-import Close from "../assets/icons/close.png";
+import Menu from "../assets/icons/menu.svg";
+import Close from "../assets/icons/close.svg";
 import "./Navbar.css";
 
 const Navbar = () => {
